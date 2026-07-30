@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const WHATSAPP_NUMBER = "5210000000000"; // reemplazar por el número real, formato E.164 sin '+'
+const WHATSAPP_NUMBER = "522717007637"; // reemplazar por el número real, formato E.164 sin '+'
 const DEFAULT_MESSAGE = "Hola, quiero solicitar una cotización de aluminio y vidrio.";
 
 export function WhatsAppFloat() {
